@@ -12,5 +12,5 @@ for analyzing brain networks. The use of order statistics greatly simplifies the
 proposed methods using comprehensive simulation studies and subsequently apply to the resting-state functional magnetic resonance images. 
 We conclude a statistically significant topological difference between the male and female brain networks.
 
-This code does the validation study of expected birth and death values published in https://arxiv.org/pdf/2204.02527.pdf. Run VALIDATION.m
+This codes perform the validation study published in https://arxiv.org/pdf/2204.02527.pdf. Run VALIDATION.m
 The codes are written by Das, S. 
