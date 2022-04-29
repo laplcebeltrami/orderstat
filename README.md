@@ -14,4 +14,4 @@ We conclude a statistically significant topological difference between the male 
 
 This codes perform the validation study published in https://arxiv.org/pdf/2204.02527.pdf. Run VALIDATION_....m for generating each corresponding validation table. EXAMPLE_Figure_5.m generates Figure 5 in the paper. 
 
-(C) 2022 The codes are written by Das, S. of University of Wisconsin-Madison
+(C) 2022 The codes are written by Das, S. of University of Wisconsin-Madison.
